@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XHSoulAMhlrNsPrFoEPMRg3gXOg46QkQQZ4NyRHExSxWQpSubWnvKET3eTUsiSt+4txFJisL8Epa66yVNYGQoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\MQTT_using_MQTTnet\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\mqttnet\\3.1.0\\mqttnet.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mqttnet.extensions.managedclient\\3.1.0\\mqttnet.extensions.managedclient.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
